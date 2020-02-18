@@ -1,0 +1,25 @@
+{
+  "info": {
+    "name": "members"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "firstname": {
+      "type": "string"
+    },
+    "lastame": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "mail": {
+      "type": "email"
+    }
+  },
+  "connection": "default",
+  "collectionName": "members"
+}
