@@ -28,7 +28,9 @@ yarn develop
 ```
 
 4.Un Token apparait, le copier
+
 5.Aller sur la route [ngrok ou localhost:1337]/members  -> GET
+
 6.Dans la partie "Authorization", 
 sélectionner le type Bearer Token et rentrer le token dans le champs correspondant
 
