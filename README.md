@@ -38,5 +38,5 @@ sélectionner le type Bearer Token et rentrer le token dans le champs correspond
 
 
 ## Documentation
-[API DOCUMENTATION ON GITBOOK](http://localhost:1337/documentation/v1.0.0#/)
+[API DOCUMENTATION ON SWAGGER LOCAL](http://localhost:1337/documentation/v1.0.0#/)
 
